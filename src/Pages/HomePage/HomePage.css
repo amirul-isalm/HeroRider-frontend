@@ -1,0 +1,22 @@
+.HomePage{
+    background-image: url(https://i.ibb.co/0jY5p4w/4234.jpg);
+    background-color: rgba(8, 7, 7, 0.562);
+    background-blend-mode: multiply;
+    width: 100vw;
+    min-height: 100vh;
+    position: relative;
+background-position: center;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.HomePage h1{
+    margin:0px;
+    color: yellowgreen;
+    font-size: 4.5vw;
+}
+.HomePage div{
+    margin: 0px auto;
+}
